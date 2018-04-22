@@ -8,7 +8,7 @@ namespace Menu.Scripts
 
 		public void OpenApp()
 		{
-			SceneManager.LoadScene("Game", LoadSceneMode.Single);
+			SceneManager.LoadScene("HelloAR", LoadSceneMode.Single);
 		}
 	
 		public void ExitApp()
